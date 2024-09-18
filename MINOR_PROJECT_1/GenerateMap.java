@@ -58,7 +58,6 @@ public class GenerateMap {
             }
         }
     }
-
     public void setValue(int i,int j, int val){
         map[i][j]=val;
     }
